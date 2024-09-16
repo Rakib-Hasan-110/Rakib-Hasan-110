@@ -54,7 +54,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" " src="https://raw.githubusercontent.com/Rakib-Hasan-110/Rakib-Hasan-110/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" " src="https://raw.githubusercontent.com/rakib-hasan-110/rakib-hasan-110/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
 </div>
@@ -69,7 +69,7 @@
 
   <div align="center">
 
-  ##  Github Stats 	👾
+  ##  Github Stats 	
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=rakib-hasan-110&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
