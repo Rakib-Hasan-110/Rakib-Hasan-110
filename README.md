@@ -35,8 +35,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="(https://github.com/Rakib-Hasan-110?tab=overview&from=2024-09-01&to=2024-09-16)-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" " src="https://raw.githubusercontent.com/Rakib-Hasan-110/Rakib-Hasan-110/output/github-contribution-grid-snake.svg" />
+
   <br/><br/><br/>
 </div>
 
