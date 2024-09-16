@@ -60,16 +60,15 @@
 </div>
 <div align="center">
 
-  ##  Streak Stats 	💪
-  <br>
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-hasan-110&" alt="rakib-hasan-110" /></p>
  
   <br>
 
   <div align="center">
-
-  ##  Github Stats 	
+ 	
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=rakib-hasan-110&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
