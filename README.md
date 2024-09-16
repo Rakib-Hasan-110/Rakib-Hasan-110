@@ -32,13 +32,7 @@
 
 <br/>
 <hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="(https://github.com/Rakib-Hasan-110?tab=overview&from=2024-09-01&to=2024-09-16)-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="rakib-hasan-110" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-hasan-110&" alt="rakib-hasan-110" /></p>
