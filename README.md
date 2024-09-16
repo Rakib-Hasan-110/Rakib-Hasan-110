@@ -42,6 +42,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="rakib-hasan-110" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="streak stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-hasan-110&" alt="rakib-hasan-110" /></p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakib-hasan-110.rakib-hasan-110" />
