@@ -68,7 +68,14 @@
 
   <div align="center">
 
-  ##  Github Stats 	
+  ##  Github Stats 	👾
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-hasan-110&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</div>
+
+  <div align="center">
+
+ ## Most Used Languages 🌟
   <br>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="streak stats" /></p>
 </div>
