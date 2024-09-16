@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on personal project. 
 - 🌱 I’m currently learning Python. 
-- 👯 I’m looking to collaborate on github. 
-- 📫 How to reach me **rakibhasanrafi110@gmail.com**
-- 
+- 👯 I’m looking to collaborate on github.  
 <h3>📧 Contact me at : <strong><a href="mailto:rakibhasanrafi110@gmail.com">rakibhasanrafi110@gmail.com</a></strong></h3>
 </div>
 
