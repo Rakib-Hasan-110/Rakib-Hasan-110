@@ -57,11 +57,22 @@
 
   <br/><br/><br/>
 </div>
-##  Streak Stats 	💪
+<div align="center">
+
+  ##  Streak Stats 	💪
   <br>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="streak stats" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-hasan-110&" alt="rakib-hasan-110" /></p>
+ 
   <br>
+
+  <div align="center">
+
+  ##  Github Stats 	👾
+  <br>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="streak stats" /></p>
+</div>
+
 <div align=center>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-hasan-110&show_icons=true&locale=en&layout=compact" alt="streak stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-hasan-110&" alt="rakib-hasan-110" /></p>
