@@ -17,14 +17,14 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   
-<a href="https://twitter.com/110rakib_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="110rakib_hasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakib-hasan110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib-hasan110" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100084696995566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100084696995566" height="30" width="40" /></a>
-<a href="https://instagram.com/rakib_110_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakib_110_hasan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rakibhasan_110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakibhasan_110" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rakibhasanoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakibhasanoffic1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rakib_hasan_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakib_hasan_110" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakib_hasan_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakib_hasan_110" height="30" width="40" /></a>
+<a href="https://twitter.com/110rakib_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="110rakib_hasan" height="60" width="40" /></a>
+<a href="https://linkedin.com/in/rakib-hasan110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib-hasan110" height="60" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100084696995566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100084696995566" height="60" width="40" /></a>
+<a href="https://instagram.com/rakib_110_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakib_110_hasan" height="60" width="40" /></a>
+<a href="https://www.codechef.com/users/rakibhasan_110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakibhasan_110" height="60" width="40" /></a>
+<a href="https://www.hackerrank.com/rakibhasanoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakibhasanoffic1" height="60" width="40" /></a>
+<a href="https://codeforces.com/profile/rakib_hasan_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakib_hasan_110" height="60" width="40" /></a>
+<a href="https://www.leetcode.com/rakib_hasan_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakib_hasan_110" height="60" width="40" /></a>
 </p>
 
 </div>
